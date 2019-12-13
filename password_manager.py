@@ -9,7 +9,7 @@ global username
 mydb = mysql.connector.connect(
 	host="localhost",
 	user="root",
-	password="Behdad790",
+	password="password",
 	database= "password_manager"
 )
 
